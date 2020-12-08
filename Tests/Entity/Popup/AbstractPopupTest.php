@@ -5,7 +5,6 @@ namespace Kunstmaan\LeadGenerationBundle\Tests\Entity\Popup;
 use Doctrine\Common\Collections\ArrayCollection;
 use Kunstmaan\LeadGenerationBundle\Entity\Rule\LocaleWhitelistRule;
 use Kunstmaan\LeadGenerationBundle\Entity\Rule\UrlBlacklistRule;
-use Kunstmaan\LeadGenerationBundle\Tests\unit\Entity\Popup\Popup;
 use PHPUnit\Framework\TestCase;
 
 class AbstractPopupTest extends TestCase

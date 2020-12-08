@@ -4,7 +4,7 @@ namespace Kunstmaan\LeadGenerationBundle\Tests\Entity\Rule;
 
 use Kunstmaan\LeadGenerationBundle\Entity\Rule\LocaleBlacklistRule;
 use Kunstmaan\LeadGenerationBundle\Form\Rule\LocaleBlackListAdminType;
-use Kunstmaan\LeadGenerationBundle\Tests\unit\Entity\Popup\Popup;
+use Kunstmaan\LeadGenerationBundle\Tests\Entity\Popup\Popup;
 use PHPUnit\Framework\TestCase;
 
 class LocaleBlacklistRuleTest extends TestCase
